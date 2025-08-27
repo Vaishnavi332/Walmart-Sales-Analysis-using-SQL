@@ -12,18 +12,17 @@ This project analyzes Walmart sales data to uncover valuable insights into sales
 
 ## 📁 Dataset
 The dataset contains comprehensive sales information including:
-- Invoice details: Transaction IDs, dates, and times
-- Branch information: Store locations and cities
-- Customer data: Types, gender, and membership status
-- Product details: Categories, unit prices, and quantities
-- Financial metrics: Taxes, total sales, and gross income
-- Customer ratings: Feedback scores
+- **Invoice details**: Transaction IDs, dates, and times
+- **Branch information**: Store locations and cities
+- **Customer data**: Types, gender, and membership status
+- **Product details**: Categories, unit prices, and quantities
+- **Financial metrics**: Taxes, total sales, and gross income
+- **Customer ratings**: Feedback scores
 
 ## 🛠️ Tools Used
-- SQL: For data analysis and querying
-- PostgreSQL: Database management system
-- GitHub: Version control and project hosting
-- Data Visualization: (Optional - add if you used any like Tableau, Power BI)
+- **SQL**: For data analysis and querying
+- **PostgreSQL**: Database management system
+- **GitHub**: Version control and project hosting
 
 ## 📈 Key Analysis Performed
 
@@ -55,7 +54,7 @@ The dataset contains comprehensive sales information including:
 - Customer rating analysis by branch
 
 ## 🔍 Key Insights
-- Top-performing Product Line**: Food and beverages
+- **Top-performing Product Line**: Food and beverages
 - **Most Revenue Generating City**: Naypyitaw
 - **Highest VAT Paying Customer Type**: Member
 - **Peak Sales Time**: Afternoon
@@ -69,15 +68,3 @@ The dataset contains comprehensive sales information including:
 - Conditional statements (CASE WHEN)
 - Subqueries and joins
 - Data filtering and sorting
-
-## 🚀 How to Use
-
-### Prerequisites
-- PostgreSQL database system
-- Basic SQL knowledge
-- Walmart sales dataset
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/walmart-sales-analysis.git
